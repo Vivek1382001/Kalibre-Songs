@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276857850159",
+    "project_id": "kalibresong",
+    "storage_bucket": "kalibresong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276857850159:android:0ff80ac0894af7886479da",
+        "android_client_info": {
+          "package_name": "com.example.kalibresong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276857850159-lavqmom2le8qhcorf2s2ocvae4bt7pf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalibresong",
+            "certificate_hash": "a0e5b7780a5ef699479eb0d0814b11c6002f5644"
+          }
+        },
+        {
+          "client_id": "276857850159-6obokom55qu4loec2isj24ctu0g7v9eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXS-v72bhbI7PjBdvpYK0YA0Rn6JprYKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276857850159-6obokom55qu4loec2isj24ctu0g7v9eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
